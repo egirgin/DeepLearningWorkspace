@@ -1,5 +1,6 @@
 __author__ = "Emre Girgin"
 __email__ = "emregirgin171@gmail.com"
+__date__ = "09/Oct/19"
 
 
 import tensorflow as tf
